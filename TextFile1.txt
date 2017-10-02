@@ -1,0 +1,51 @@
+TACHYON OS 2.0 LEGACY CHANGE LOG - TACHYON PORJECT STARTED WEDNESDAY, SEPTEMBER 27 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BUILD 1 - 
+added console
+login system
+says welcome
+adding restart??
+
+tachyon os build 20 
+change log- bypassed run
+major milestone 1
+GEN CYAN
+
+
+TO2040D
+GEN MAGENTA
+added gui basics major milestone 2
+fixed build 20 console freeze
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+TO20112D
+MILESTONE 3
+GEN MAGENTA
+gui works
+have mouse
+startmenu when hovering over taskbar 
+OTHER SYSTEM VERSION FOR THIS BUILD
+
+CGE109BF
+console graphics engine build 9, this is a bugfix
+
+DD5016BFD
+display driver ver 5.0 build 16, this is a major update and bugfix, adding the startmenu and preventing most freeze up senciros
+
+K20121D
+
+kernel 2.0 build 121 dev
+
+this has major new stuff, boot animation is prolonged but in console and login spacing is improved
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+TO20130D
+MILESTONE 3.2
+GEN VOILET
+
+mouse bugs.. UPDATED to vs 2017
+downdwon gradeD back to vs 2015 due to errors
+
+////////////////////////////////////////////////////////////////////////////////////////////////
