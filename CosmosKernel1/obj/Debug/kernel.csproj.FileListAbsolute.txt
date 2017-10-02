@@ -1,0 +1,49 @@
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\CosmosKernel1.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\CosmosKernel1.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Common.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.Plugs.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Debug.Kernel.Plugs.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.HAL.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.System.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.System.Plugs.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\hardware.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\hardware.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Common.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.Plugs.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Debug.Kernel.Plugs.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.HAL.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.System.Plugs.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.System.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\obj\Debug\kernel.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\obj\Debug\CosmosKernel1.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\obj\Debug\CosmosKernel1.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\console graphics engine.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\CosmosKernel1\CosmosKernel1\bin\Debug\console graphics engine.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\CosmosKernel1.dll
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\CosmosKernel1.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\console graphics engine.dll
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Common.dll
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.dll
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Debug.Kernel.dll
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\hardware.dll
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.Common.dll
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.Memory.dll
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\console graphics engine.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\hardware.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Common.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.Plugs.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.HAL.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.System.Plugs.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.System.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Debug.Kernel.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.Common.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\bin\Debug\Cosmos.Core.Memory.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\obj\Debug\kernel.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\obj\Debug\CosmosKernel1.dll
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\obj\Debug\CosmosKernel1.pdb
+C:\Users\Admin\Desktop\CosmosKernel1\CosmosKernel1\obj\Debug\kernel.csproj.CoreCompileInputs.cache
